@@ -1,0 +1,8 @@
+{
+  "id": "inline-web-search",
+  "name": "Inline Web Search",
+  "version": "1.0.0",
+  "description": "Exposes Lumiverse's native SearXNG web search as a context-driven Inline tool for the main LLM.",
+  "entry": "index.js",
+  "permissions": ["tools", "webSearch"]
+}
